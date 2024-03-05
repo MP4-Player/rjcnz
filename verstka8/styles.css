@@ -1,0 +1,299 @@
+body {
+    margin: 0;
+    background-size: repeat-x;
+    background-position: center;
+    background-size: cover;
+    background-color: #f0f1f5;
+}
+
+.header {
+    margin: 0;
+    padding: 0;
+    display: block;
+    width: 100%;
+    height: 50px;
+    background-image: url("images/header.jpg");
+    background-color: #f0f1f5;
+    font-size: 20px;
+}
+
+.city {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 125px;
+    top: 12px;
+}
+
+.o_firme {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 12px;
+    left: 1450px;
+    text-decoration: none;
+    color: black;
+}
+
+.o_firme:hover {
+    color: orange;
+    text-decoration: underline;
+}
+
+.ob_avtore {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 12px;
+    left: 1650px;
+    text-decoration: none;
+    color: black;
+}
+
+.ob_avtore:hover {
+    color: orange;
+    text-decoration: underline;
+}
+
+.main_menu {
+    margin: 0;
+    padding: 0;
+    width: 250px;
+    height: 900px;
+    background-color: black;
+    position: absolute;
+    left: 75px;
+}
+
+.button_main_menu {
+    margin: 0;
+    padding: 0;
+    color: white;
+    position: absolute;
+    left: 30px;
+    top: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.button_main_menu:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.katalog {
+    margin: 0;
+    padding: 0;
+    color: white;
+    position: absolute;
+    left: 30px;
+    top: 255px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.buttoninclass1 {
+    margin: 0px;
+    padding 0px;
+    color: white;
+    position: absolute;
+    left: 30px;
+    top: 325px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.buttoninclass1:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.buttoninclass2 {
+    margin: 0px;
+    padding 0px;
+    color: white;
+    position: absolute;
+    left: 30px;
+    top: 375px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.buttoninclass2:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.buttoninclass3 {
+    margin: 0px;
+    padding 0px;
+    color: white;
+    position: absolute;
+    left: 30px;
+    top: 425px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.buttoninclass3:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.buttoninclass4 {
+    margin: 0px;
+    padding 0px;
+    color: white;
+    position: absolute;
+    left: 30px;
+    top: 475px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.buttoninclass4:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.banner1 {
+    margin: 0px;
+    padding 0px;
+    color: black;
+    position: absolute;
+    width: 1250px;
+    height: 150px;
+    background-color: black;
+    left: 500px;
+    top: 145px;
+}
+
+.text_for_banner2 {
+    margin: 0px;
+    padding 0px;
+    position: absolute;
+    font-size: 30px;
+    left: 900px;
+    top: 325px;
+}
+
+.imgvideo1 {
+    margin: 0px;
+    padding 0px;
+    position: absolute;
+    left: 450px;
+    top: 370px;
+    cursor: pointer;
+    background-color: black;
+    height: 250px;
+    width: 500px;
+}
+
+.imgvideo2 {
+    margin: 0px;
+    padding 0px;
+    position: absolute;
+    left: 1225px;
+    top: 370px;
+    cursor: pointer;
+    background-color: black;
+    height: 250px;
+    width: 500px;
+}
+
+.text_for_magazine_partner {
+    margin: 0px;
+    padding 0px;
+    position: absolute;
+    left: 325px;
+    top: 700px;
+    color: black;
+    font-size: 30px;
+}
+
+.magazine_partner_banner {
+    margin: 0px;
+    padding 0px;
+    position: absolute;
+    left: 325px;
+    top: 750px;
+    background-color: black;
+    height: 175px;
+    width: 1595px;
+    cursor: pointer;
+}
+
+.card1 {
+    margin: 0px;
+    padding 0px;
+    position: absolute;
+    left: 350px;
+    top: 50px;
+    width: 400px;
+    background-color: orange;
+}
+
+.card2 {
+    margin: 0px;
+    padding 0px;
+    position: absolute;
+    left: 775px;
+    top: 50px;
+    width: 400px;
+    background-color: orange;
+}
+
+.card3 {
+    margin: 0px;
+    padding 0px;
+    position: absolute;
+    left: 1200px;
+    top: 50px;
+    width: 400px;
+    background-color: orange;
+}
+
+.card-img {
+    width: 400px;
+    height: 300px;
+}
+
+.o_firme1 {
+    border: 0;
+    font-size: 30px;
+    margin: 0;
+    width: 1470px;
+    height: 400px;
+    padding: 16px 24px;
+    position: absolute;
+    left: 400px;
+}
+
+.mapmagazine {
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+}
+
+.ob_avtore1 {
+    border: 0;
+    font-size: 30px;
+    margin: 0;
+    width: 1470px;
+    height: 400px;
+    padding: 16px 24px;
+    position: absolute;
+    left: 400px;
+}
